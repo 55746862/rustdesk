@@ -1004,7 +1004,7 @@ fn get_api_server_(api: String, custom: String) -> String {
             return format!("http://{}", s);
         }
     }
-    "http://180.76.114.81:21114".to_owned()
+    "修改API地址".to_owned()
 }
 
 #[inline]
